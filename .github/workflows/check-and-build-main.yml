@@ -31,5 +31,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-          tags: namejoe1568/sdte-lab6:latest
+          tags: namejoe1568/sdte-lab6:latestt
           push: true
